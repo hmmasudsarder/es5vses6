@@ -1,0 +1,1 @@
+// javascript is a synchronous single-threaded language 
